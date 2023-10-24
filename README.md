@@ -32,7 +32,7 @@ I made this project for a server, since it's useless now...<br>
 - /control-panel
 - /ping
 - /help
-- Change Discord user's name to role prefix (Change it in the source)
+- Change Discord user's name to their Roblox username and role prefix (Change it in the source)
 - Able to search existing Roblox players and check their profile to confirm
 - Good and stable database
 - /check-logs (TO-DO)
