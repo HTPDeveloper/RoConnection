@@ -27,8 +27,8 @@ I made this project for a server, since it's useless now...<br>
 [Discord.js Docs](https://discord.js.org/) **Using discord.js Version 14**
 
 ## Features:
-- /Verify
-- /Update-role
+- /verify
+- /update-role
 - /control-panel
 - /ping
 - /help
