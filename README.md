@@ -13,11 +13,11 @@ I made this project for a server, since it's useless now...<br>
   **(Prefix is /)**
 
 ## How to use: (Non-replit users)
-- Install npm `npm install`
-- Install Quick.db
-- Install fs
-- Install noblox.js
-- Install express
+- Install npm | `npm install`
+- Install Quick.db | `npm install Quick.db`
+- Install fs | `npm install fs`
+- Install noblox.js | `npm install noblox.js`
+- Install express | `npm install express`
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
   **(Prefix is /)**
