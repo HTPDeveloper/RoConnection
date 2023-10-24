@@ -1,7 +1,7 @@
 # RoConnection
 Simple Roblox Verify Discord Bot<br>
 I made this project for a server, since it's useless now...<br>
-**PROJECT WILL NOT CONTINUE**
+**PROJECT DISCONTINUE**
 
 ## How to use: (Replit.com)
 - Install noblox.js
