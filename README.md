@@ -3,7 +3,7 @@ Simple Roblox Verify Discord Bot<br>
 I made this project for a server, since it's useless now...<br>
 **PROJECT DISCONTINUED**
 
-# `_To change Roblox Group, find the current ID and change it to your group ID_`
+# `To change Roblox Group, find the current ID and change it to your group ID`
 
 ## How to use: (Replit.com)
 - Install noblox.js
