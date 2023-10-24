@@ -23,7 +23,7 @@ I made this project for a server, since it's useless now...
   **Prefix is /**
 
 ## Useful documents:
-[Noblox.js Docs](https://noblox.js.org/)
+[Noblox.js Docs](https://noblox.js.org/)\n
 [Discord.js Docs](https://discord.js.org/) **Using discord.js Version 14**
 
 ## Features:
@@ -38,9 +38,9 @@ I made this project for a server, since it's useless now...
 - /check-logs (TO-DO)
 
 ## Credits:
-how_to_play#0 (Source owner)
+how_to_play#0 (Source owner)\n
 realmdev#0 (Embed designer)
 
 **Found a bug?**
-Do not create an issue, but instead make use of noblox documents!
+Do not create an issue, but instead make use of noblox documents!\n
 If your lucky, i might answer your Dm(s) in Discord. (If you can find me)
