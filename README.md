@@ -4,7 +4,9 @@ I made this project for a server, since it's useless now...<br>
 **PROJECT DISCONTINUED**
 
 # `To change Roblox Group, find the current ID and change it to your group ID`
-[Current Group ID](https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L206)
+[Current Group ID](https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L206)<br>
+[To change role prefix](
+https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L217)
 
 ## How to use: (Replit.com)
 - Install noblox.js
