@@ -13,7 +13,7 @@ I made this project for a server, since it's useless now...<br>
   **(Prefix is /)**
 
 ## How to use: (Non-replit users)
-- Install npm
+- Install npm `npm install`
 - Install Quick.db
 - Install fs
 - Install noblox.js
