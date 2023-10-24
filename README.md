@@ -10,7 +10,7 @@ I made this project for a server, since it's useless now...<br>
 - Install express
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
-  **Prefix is /**
+  **(Prefix is /)**
 
 ## How to use: (Non-replit users)
 - Install npm
@@ -20,7 +20,7 @@ I made this project for a server, since it's useless now...<br>
 - Install express
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
-  **Prefix is /**
+  **(Prefix is /)**
 
 ## Useful documents:
 [Noblox.js Docs](https://noblox.js.org/)<br>
