@@ -41,21 +41,21 @@ __Important:__
 ```
 npm install
 ```
-- Install Quick.db | 
+$ Install Quick.db | 
 ```
 npm install Quick.db
 ```
-- Install fs | 
+$ Install fs | 
 ```
 npm install fs
 ```
-- Install noblox.js | 
+$ Install noblox.js | 
 ```
 npm install noblox.js
 ```
-- Install express | 
+$ Install express | 
 ```
-npm install express
+$ npm install express
 ```
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
