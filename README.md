@@ -16,7 +16,7 @@ https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L217)
 __Installation:__
 > [!NOTE]
 > For module error/missing do install the following module error shown. 
-> Example: **$ npm install <module_error>
+> Example: **$ npm install <module_error>**
 >
 ```
 $ npm install noblox.js
