@@ -1,5 +1,3 @@
-const TOKEN = process.env['DISCORD_TOKEN']; // For replit.com users
-const AltToken = "" // For non-replit users
 const { Client, Events, GatewayIntentBits, EmbedBuilder, ButtonBuilder, ButtonStyle, ActionRowBuilder, ActivityType, ModalBuilder, TextInputBuilder, TextInputStyle, Partials, SlashCommandBuilder } = require('discord.js');
 const { token } = require('./config.json');
 const noblox = require("noblox.js");
