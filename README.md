@@ -23,7 +23,7 @@ __Installation:__
 $ npm install <module_error>
 ```
 
-
+___________________________________________
 ```
 $ npm install noblox.js
 ```
