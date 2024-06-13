@@ -43,21 +43,21 @@ __Important:__
 ## How to use: (Non-replit users)
 - Install npm | 
 ```
-npm install
+$ npm install
 ```
-$ Install Quick.db | 
+- Install Quick.db | 
 ```
-npm install Quick.db
+$ npm install Quick.db
 ```
-$ Install fs | 
+- Install fs | 
 ```
-npm install fs
+$ npm install fs
 ```
-$ Install noblox.js | 
+- Install noblox.js | 
 ```
-npm install noblox.js
+$ npm install noblox.js
 ```
-$ Install express | 
+- Install express | 
 ```
 $ npm install express
 ```
