@@ -1,9 +1,9 @@
 # RoConnection
-RoConnection is a Discord application that is programmed using Discord.js.
+RoConnection is a Roblox Discord application that is used for Roblox servers to verify members. This application is made using Discord.js
 
 > [!WARNING]
 > This project has successfully finished but will not longer have updates for future notice in [our discord](https://discord.com/invite/uz9TY5sB)
->
+
 
 
 > [!NOTE]
