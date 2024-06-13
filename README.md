@@ -6,9 +6,10 @@ RoConnection is a Roblox Discord application that is used for Roblox servers to 
 
 
 
-> CONFIGURATION:
+> CONFIGURATION GROUP ID:
 >[Current Group ID](https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L206)<br>
 
+> CONFIGURATION PREFIX:
 >[To change role prefix](
 https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L217) 
 >
