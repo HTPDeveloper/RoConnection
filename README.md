@@ -30,6 +30,7 @@ $ npm install Quick.db
 __Non-necessarily installments(if needed):__
 - Install fs
 - Install express
+
 __Important:__
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
