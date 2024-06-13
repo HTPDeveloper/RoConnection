@@ -1,31 +1,59 @@
 # RoConnection
-Simple Roblox Verify Discord Bot<br>
-I made this project for a server, since it's useless now...<br>
-**PROJECT DISCONTINUED**
+RoConnection is a Discord application that is programmed using Discord.js.
 
-# `To change Roblox Group, find the current ID and change it to your group ID`
-[Current Group ID](https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L206)<br>
-[To change role prefix](
-https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L217)
+> [!WARNING]
+> This project has successfully finished but will not longer have updates for future notice in [our discord](https://discord.com/invite/uz9TY5sB)
+>
+
+> [!NOTE]
+>[Current Group ID](https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L206)<br>
+>[To change role prefix](
+https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L217) 
+>
 
 ## How to use: (Replit.com)
-- Install noblox.js
-- Install Quick.db
+__Installation:__
+> [!NOTE]
+> For module error/missing do install the following module error shown. 
+> Example: **$ npm install <module_error>
+>
+```
+$ npm install noblox.js
+```
+$ npm install Quick.db
+```
+__Non-necessarily installments(if needed):__
 - Install fs
 - Install express
+__Important:__
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
-  **(Prefix is /)**
+> Bot Prefix: **(Prefix is /)**
 
 ## How to use: (Non-replit users)
-- Install npm | `npm install`
-- Install Quick.db | `npm install Quick.db`
-- Install fs | `npm install fs`
-- Install noblox.js | `npm install noblox.js`
-- Install express | `npm install express`
+- Install npm | 
+```
+npm install
+```
+- Install Quick.db | 
+```
+npm install Quick.db
+```
+- Install fs | 
+```
+npm install fs
+```
+- Install noblox.js | 
+```
+npm install noblox.js
+```
+- Install express | 
+```
+npm install express
+```
 - Input your bot token in config.json [How to get Discord Bot token](https://discord.com/developers/docs/intro)
 - Run the application
-  **(Prefix is /)**
+> Bot Prefix: **(Prefix is /)**
 
 ## Useful documents:
 [Noblox.js Docs](https://noblox.js.org/)<br>
@@ -48,4 +76,4 @@ realmdev#0 (Embed designer)
 
 **Found a bug?**
 Do not create an issue, but instead make use of noblox documents! <br>
-If your lucky, i might answer your Dm(s) in Discord. (If you can find me)
+If your lucky, i might answer your Dm(s) in Discord.
