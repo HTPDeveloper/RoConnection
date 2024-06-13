@@ -4,7 +4,7 @@ RoConnection is a Discord application that is programmed using Discord.js.
 > [!WARNING]
 > This project has successfully finished but will not longer have updates for future notice in [our discord](https://discord.com/invite/uz9TY5sB)
 >
-\n
+
 
 > [!NOTE]
 >[Current Group ID](https://github.com/HTPGTDev/RoConnection/blob/main/index.js#L206)<br>
