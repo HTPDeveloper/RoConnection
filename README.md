@@ -23,6 +23,8 @@ __Installation:__
 ```
 $ npm install noblox.js
 ```
+
+```
 $ npm install Quick.db
 ```
 __Non-necessarily installments(if needed):__
